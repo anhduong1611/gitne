@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //koko
-        //koko
+        //koko1
         setContentView(R.layout.activity_main);
     }
 }
